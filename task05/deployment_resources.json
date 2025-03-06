@@ -37,7 +37,7 @@
     "deploy_stage": "api",
     "dependencies": [],
     "resources": {
-      "POST": {
+      "/POST": {
         "enable_proxy": true
       }
     },
